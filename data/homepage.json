@@ -1,0 +1,25 @@
+{
+    "add": {
+        "location": {
+            "locationname": "taj"
+        },
+        "talent": {
+            "calltime": "8.00PM",
+            "lastname": "john",
+            "firstname": "clay",
+            "phone": "1234567890",
+            "email": "testtooo@vomoto.com",
+            "role": "Actor",
+            "rate": "200",
+            "calltime1": "9.00PM",
+            "lastname1": "harry",
+            "firstname1": "peter",
+            "phone1": "1234567812",
+            "email1": "testauto@zetmail.com",
+            "role1": "Actor",
+            "rate1": "200",
+            "description": "shoe",
+            "rate2": "9"
+        }
+    }
+}

@@ -10,7 +10,7 @@ class CreateShoot {
     get Location() {return $(homepageobjects.location);}
     get Shootdate() {return $(homepageobjects.shootdate);}
     get Cancelbtn() {return $(homepageobjects.cancelbtn);}
-    get Createshootbtn() {return $(homepageobjects.createshootbtn);}
+    get Createshootbtn() {return $$(homepageobjects.createshootbtn)[1];}
     get Cleardateicon() {return $(homepageobjects.cleardateicon);}
     get Editshootbtn() {return $(homepageobjects.editshootbtn);}
     get Selectshoot() {return $(homepageobjects.selectshoot);}
@@ -80,13 +80,13 @@ class CreateShoot {
     get addCancelbtn() {return $(homepageobjects.addcancelbtn);}
 
     createshoot() {
-        utilities.doClick(this.Cancelbtn);
         utilities.doClick(this.Showname);
         utilities.doClick(this.Selectshowname);
         utilities.doClick(this.Location);
         utilities.doClick(this.Selectlocation);
         utilities.doClick(this.Calendaricon);
         utilities.doClick(this.Selectdate1);
+        utilities.waitForClickable(this.Createshootbtn,true);
         utilities.doClick(this.Createshootbtn);
     }
     createshootwithexistingdate(){
@@ -132,6 +132,8 @@ class CreateShoot {
         utilities.doSelect(this.Location,locationname);
         utilities.waitForClickable(this.Editshootbtn,true);
         utilities.doClick(this.Editshootbtn);
+        utilities.waitForClickable(this.Cancelbtn,true);
+        utilities.doClick(this.Cancelbtn);
     }
     addtalentgrid(calltime,lastname,firstname,phone,email,role){
         utilities.doClick(this.Addtalentbtn);
@@ -231,6 +233,7 @@ class CreateShoot {
         utilities.waitForClickable(this.Othercompensationplusbtn,true);
         utilities.doClick(this.Othercompensationplusbtn);
         utilities.doClick(this.Othercompensationclosebtn);
+        utilities.waitForClickable(this.Submitbtn,true);
         utilities.doClick(this.Submitbtn);
     }
     

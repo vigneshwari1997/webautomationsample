@@ -27,14 +27,12 @@ class LoginPage {
         utilities.doaddValue(this.userName,username);
         utilities.doaddValue(this.passWord,password);
         utilities.doClick(this.loginBtn);
-        browser.pause(5000);
     }
     loginwithwrongusername(){
         browser.url(url.cdurllogin);
         utilities.doaddValue(this.userName,logindata.username1);
         utilities.doaddValue(this.passWord,logindata.password);
         utilities.doClick(this.loginBtn);
-        browser.pause(3000);
     }
     loginwithwrongpassword(){
         browser.url(url.cdurllogin);
@@ -55,7 +53,6 @@ class LoginPage {
         utilities.doaddValue(this.userName,username);
         utilities.doaddValue(this.passWord,confirmpassword);
         utilities.doClick(this.loginBtn);
-        browser.pause(3000);
     }
     logout(){
         utilities.doClick(this.Cdicon);

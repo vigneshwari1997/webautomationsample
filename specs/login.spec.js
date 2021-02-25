@@ -7,6 +7,9 @@ describe('Casting Director login', () => {
     it('#smoke:Casting Director logging in with valid credentials', () => {
         loginpage.login(data.env.DEV.URL,data.env.DEV.CDusername,data.env.DEV.CDpassword);
     });
+    it('Casting Director logging in with invalid credentials', () => {
+        loginpage.login(data.env.DEV.URL,data.env.DEV.Invalidusername,data.env.DEV.Invalidpassword);
+    });
 
 });    
 

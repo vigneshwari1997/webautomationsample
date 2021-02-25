@@ -9,7 +9,6 @@ describe('Casting Director creating shoot', () => {
         homepage.createshootnewlocation(homepagedata.add.location.locationname);
         homepage.createshoot();
         loginpage.logout();
-        browser.pause(2000);
     });
 });  
 describe('Casting director trying to add talent', () => {

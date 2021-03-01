@@ -41,6 +41,9 @@ class utilities{
         console.log("The textdate is:",textdate);
         return textdate;
     }
+    doDisplayed(element) {
+        element.isDisplayed();
+    }
     unHideElement (selector) {
         browser.execute("arguments[0].setAttribute('style','pointer-events:display;')", selector);
     }
@@ -65,6 +68,10 @@ class utilities{
     clearAndSetValue (selector,value) {
         selector.clearValue();
         selector.setValue(value);
+    }
+    getattribute(element,value){
+        element.waitForDisplayed();
+        return element.getAttribute(value);
     }
 }
 module.exports = new utilities();

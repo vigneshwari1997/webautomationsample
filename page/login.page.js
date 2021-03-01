@@ -1,7 +1,7 @@
 import loginobjects from '../pageobjects/login.pageobjects';
-import logindata from '../data/env.json';
+import logindata from '../data/login.json';
 import utilities from '../helper/utilties';;
-import homepageobjects from '../pageobjects/home.pageobjects';
+import homepageobjects from '../pageobjects/skinuploadhome.pageobjects';
 
 class LoginPage {
 
@@ -57,7 +57,6 @@ class LoginPage {
     logout(){
         utilities.doClick(this.Cdicon);
         utilities.doClick(this.Logoutbtn);
-        browser.pause(3000);
     }
     changepassword(oldpassword,newpassword,confirmpassword){
         utilities.doClick(this.CDicon);

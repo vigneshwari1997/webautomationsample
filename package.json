@@ -8,7 +8,6 @@
     "lint": "eslint ./ --fix",
     "allure-report": "allure generate allure-results/ --clean && allure open",
     "smoke": "wdio wdio.conf.js --mochaOpts.grep 'smoke' && npm run allure-report"
-    
   },
   "keywords": [],
   "author": "",

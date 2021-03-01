@@ -39,8 +39,8 @@ describe('Casting director trying to view and edit details', () => {
     });
     
 });  
-describe.only('Casting Director should be able to send message to AD', () => {
-    it.only('#smoke:Casting Director sending message to AD', () => {
+describe('Casting Director should be able to send message to AD', () => {
+    it('#smoke:Casting Director sending message to AD', () => {
         loginpage.login(data.env.DEV.URL,data.env.DEV.CDusername,data.env.DEV.CDpassword);
         skinuploadpage.messagetoad(skinuploadpagedata.add.message.msg);
         loginpage.logout();

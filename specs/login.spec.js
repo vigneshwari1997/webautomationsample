@@ -13,9 +13,9 @@ describe('Casting Director login', () => {
 
 });    
 
-describe.only('Casting director changing the password', () => {
+describe('Casting director changing the password', () => {
 
-    it.only('#smoke:changing the old password with new password', () => {
+    it('#smoke:changing the old password with new password', () => {
         loginpage.login(data.env.DEV.URL,data.env.DEV.CDusername1,data.env.DEV.CDpassword1);
         loginpage.changepassword(data.env.DEV.CDpassword1,data.env.DEV.Newpassword,data.env.DEV.Confirmpassword);
         loginpage.logout();

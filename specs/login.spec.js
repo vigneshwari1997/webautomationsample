@@ -2,7 +2,7 @@ import loginpage from '../page/login.page';
 import data from '../data/login.json';
 
 
-describe('Casting Director login', () => {
+describe('Casting Director should be able to login', () => {
 
     it('#smoke:Casting Director logging in with valid credentials', () => {
         loginpage.login(data.env.DEV.URL,data.env.DEV.CDusername,data.env.DEV.CDpassword);
@@ -13,7 +13,7 @@ describe('Casting Director login', () => {
 
 });    
 
-describe('Casting director changing the password', () => {
+describe('Casting director should be able to change the password', () => {
 
     it('#smoke:changing the old password with new password', () => {
         loginpage.login(data.env.DEV.URL,data.env.DEV.CDusername1,data.env.DEV.CDpassword1);

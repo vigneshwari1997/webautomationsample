@@ -145,28 +145,16 @@ class CreateShoot {
     viewandedittheshootcreated(){
         utilities.doClick(this.Showname);
         utilities.doClick(this.Selectshowname1);
-        //let show = utilities.doGetText(this.Selectshowname);
         utilities.doClick(this.Location);
         utilities.doClick(this.Selectlocation);
-        //let location = utilities.doGetText(this.Selectlocation);
         utilities.doClick(this.Calendaricon);
         utilities.doClick(this.Selectdate1);
-        //let date = utilities.getattribute(this.Shootdate,'value');
         utilities.waitForClickable(this.Createshootbtn,true);
         utilities.doClick(this.Createshootbtn);
-        //let shootcreated = show+' '+location+' '+date;
-        //utilities.waitforDisplayed(this.Shootfield,true);
-        //let shoot = utilities.getattribute(this.Shootfield,'value');
-        //assert.strictEqual(shootcreated,shoot,"These are equal");
         utilities.doClick(this.Location);
         utilities.doClick(this.Selectlocation1);
-        //let changedlocation = utilities.doGetText(this.Selectlocation1);
         utilities.waitForClickable(this.Editshootbtn,true);
         utilities.doClick(this.Editshootbtn);
-        //utilities.waitforDisplayed(this.Shootfield,true);
-        //let shoot2 = utilities.getattribute(this.Shootfield,'value');
-        //let shootcreated2 = show+' '+changedlocation+' '+date;
-        //assert.strictEqual(shootcreated2,shoot2,"These are also equal");
     }
     createshootnewlocation(locationname){
         utilities.doClick(this.Shootfield);

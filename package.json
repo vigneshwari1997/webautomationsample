@@ -37,6 +37,8 @@
     "wdio-chromedriver-service": "^6.0.4"
   },
   "dependencies": {
-    "allure-commandline": "^2.13.8"
+    "allure-commandline": "^2.13.8",
+    "nodemailer": "^6.5.0",
+    "yarn": "^1.22.10"
   }
 }

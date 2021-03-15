@@ -3,16 +3,11 @@
     "env":
     {
        "DEV":{
-         "URL":"https://emsadminqa.enoahisolution.com/CastingDirector/Login",
-         "URL1":"https://emsadminqa.enoahisolution.com/SkinUploadHome",
-         "CDusername":"Ronaldo",
-         "CDpassword":"Pass@12345",
-         "CDusername1":"vb",
-         "CDpassword1": "Pass@1234",
-         "Newpassword":"Pass@1234",
-         "Confirmpassword":"Pass@1234",
-         "Invalidusername":"Ronaldo@",
-         "Invalidpassword": "Ronaldo"
+         "URL":"https://sample/Login",
+         "username":"vicky",
+         "password":"Pass@12345",
+         "username1":"vb",
+         "password1": "Pass@1234"
         }
     }
  }

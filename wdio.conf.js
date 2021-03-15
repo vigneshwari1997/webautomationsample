@@ -17,7 +17,7 @@ exports.config = {
     // directory is where your package.json resides, so `wdio` will be called from there.
     //
     specs: [
-        './specs/*.spec.js'
+        './specs/skinuploadhome.spec.js'
     ],
     // Patterns to exclude.
     exclude: [
@@ -63,7 +63,7 @@ exports.config = {
         maxInstances: 3,
         browserName: 'firefox',
     },
-],
+    ],
     //
     // ===================
     // Test Configurations

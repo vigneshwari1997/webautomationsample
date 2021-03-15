@@ -48,10 +48,10 @@ class utilities{
         browser.execute("arguments[0].setAttribute('style','pointer-events:display;')", selector);
     }
     waitforDisplayed (selector,isDisplayed = true) {
-       return $(selector).waitForEnabled({
-       timeout: 28000,
-       reverse: !isDisplayed,
-    });
+        return $(selector).waitForEnabled({
+            timeout: 28000,
+            reverse: !isDisplayed,
+        });
     }
     waitForClickable (selector, isClickable = true) {
         return selector.waitForClickable({

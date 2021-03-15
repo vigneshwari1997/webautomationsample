@@ -25,7 +25,8 @@
         "no-unused-vars":[
             "off",
             "always"
-        ]
+        ],
+        "typeof": false
     },
     "globals": {
         "$": true,

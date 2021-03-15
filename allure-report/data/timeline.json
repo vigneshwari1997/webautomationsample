@@ -1,0 +1,710 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "1-1",
+    "children" : [ {
+      "name" : "#smoke:Casting Director should be able to delete the talents individual before checkin",
+      "uid" : "132c599b2f901f67",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614609071457,
+        "stop" : 1614609076235,
+        "duration" : 4778
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-61.0.1" ]
+    }, {
+      "name" : "#smoke:Casting Director should be able to delete the talents bulk before checkin",
+      "uid" : "afaddcaaa908e3",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614609076235,
+        "stop" : 1614609083170,
+        "duration" : 6935
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-61.0.1" ]
+    }, {
+      "name" : "#smoke:Casting Director should be able to delete the talents individual before checkin",
+      "uid" : "ef7be2fc7df58343",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612230839,
+        "stop" : 1614612237468,
+        "duration" : 6629
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:casting director should be able to view and edit talent until checkout",
+      "uid" : "553ec283c2c89f48",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614609021089,
+        "stop" : 1614609027426,
+        "duration" : 6337
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-61.0.1" ]
+    }, {
+      "name" : "#smoke:casting director should be able to add mandatory fields",
+      "uid" : "ae4bcc1541c7bb7e",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614608950245,
+        "stop" : 1614608986497,
+        "duration" : 36252
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-61.0.1" ]
+    }, {
+      "name" : "#smoke:Casting director able create shoot and able to view and edit the shoot created",
+      "uid" : "c855b2c3d1dc818b",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614608934006,
+        "stop" : 1614608950152,
+        "duration" : 16146
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-61.0.1" ]
+    }, {
+      "name" : "#smoke:Casting Director should be able to delete the talents bulk before checkin",
+      "uid" : "bdcbe69a316a1555",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612237468,
+        "stop" : 1614612246066,
+        "duration" : 8598
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:Casting Director sending message to Assistant Director",
+      "uid" : "ea10a3fad143fae7",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614609027449,
+        "stop" : 1614609062169,
+        "duration" : 34720
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-61.0.1" ]
+    }, {
+      "name" : "#smoke:casting director should be able to add talent with compensations",
+      "uid" : "2d16421a44562d91",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614608986604,
+        "stop" : 1614609020922,
+        "duration" : 34318
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-61.0.1" ]
+    }, {
+      "name" : "#smoke:Casting Director sending message to Assistant Director",
+      "uid" : "c4f46547098c6b12",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612214707,
+        "stop" : 1614612220458,
+        "duration" : 5751
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:casting director should be able to add talent with compensations",
+      "uid" : "ebc18a5fafeb51de",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612176308,
+        "stop" : 1614612209411,
+        "duration" : 33103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:casting director should be able to view and edit talent until checkout",
+      "uid" : "333d84f36d90a2c9",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612209506,
+        "stop" : 1614612214681,
+        "duration" : 5175
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:Casting director should be able to add new location to the project",
+      "uid" : "63a47e9859e2cff1",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614609062246,
+        "stop" : 1614609071424,
+        "duration" : 9178
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-61.0.1" ]
+    }, {
+      "name" : "#smoke:casting director should be able to add mandatory fields",
+      "uid" : "fa3159c360b56747",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612142145,
+        "stop" : 1614612176239,
+        "duration" : 34094
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:Casting director should be able to add new location to the project",
+      "uid" : "8d470972be874ee1",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612220485,
+        "stop" : 1614612230790,
+        "duration" : 10305
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:Casting director able create shoot and able to view and edit the shoot created",
+      "uid" : "e4dd4a71306dbf56",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612128705,
+        "stop" : 1614612141993,
+        "duration" : 13288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    } ],
+    "uid" : "7f515bb52d6d225c0a299e7d9c0e2786"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "#smoke:Casting Director sending message to Assistant Director",
+      "uid" : "ae71bd7ff5d9143d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614613212588,
+        "stop" : 1614613226397,
+        "duration" : 13809
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:changing the old password with new password",
+      "uid" : "78246c6c267ddfec",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614611915734,
+        "stop" : 1614611929935,
+        "duration" : 14201
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting Director sending message to Assistant Director",
+      "uid" : "4174471315d52b19",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612870357,
+        "stop" : 1614612888634,
+        "duration" : 18277
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:changing the old password with new password",
+      "uid" : "e618bdbf03afd36e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612122347,
+        "stop" : 1614612141735,
+        "duration" : 19388
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting Director logging in with valid credentials",
+      "uid" : "1556baf739656e9d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614608923456,
+        "stop" : 1614608933693,
+        "duration" : 10237
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:changing the old password with new password",
+      "uid" : "410e59a67225f84c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614608933731,
+        "stop" : 1614608952367,
+        "duration" : 18636
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting Director logging in with valid credentials",
+      "uid" : "b5a2d1e5a76df111",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612113839,
+        "stop" : 1614612122275,
+        "duration" : 8436
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting Director logging in with valid credentials",
+      "uid" : "3ac5d9731f620fac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614611903554,
+        "stop" : 1614611915696,
+        "duration" : 12142
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting Director sending message to Assistant Director",
+      "uid" : "64757414a51171b8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614613071207,
+        "stop" : 1614613085746,
+        "duration" : 14539
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "#smoke:Casting Director should be able to delete the talents individual before checkin",
+      "uid" : "55f85b9016266545",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614609033286,
+        "stop" : 1614609038613,
+        "duration" : 5327
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:casting director should be able to view and edit talent until checkout",
+      "uid" : "25aeae42a6f03585",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614609012792,
+        "stop" : 1614609019946,
+        "duration" : 7154
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting director should be able to add new location to the project",
+      "uid" : "86059f985831e7c7",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614609026958,
+        "stop" : 1614609033264,
+        "duration" : 6306
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting director able create shoot and able to view and edit the shoot created",
+      "uid" : "901974de683bf818",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614611903747,
+        "stop" : 1614611924578,
+        "duration" : 20831
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting Director sending message to Assistant Director",
+      "uid" : "164ddf0e531bd080",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612213767,
+        "stop" : 1614612223592,
+        "duration" : 9825
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:casting director should be able to add talent with compensations",
+      "uid" : "c23bd50be97a027",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614611958183,
+        "stop" : 1614611987091,
+        "duration" : 28908
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting Director should be able to delete the talents bulk before checkin",
+      "uid" : "12feede771da979",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614609038613,
+        "stop" : 1614609043234,
+        "duration" : 4621
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting director able create shoot and able to view and edit the shoot created",
+      "uid" : "bba1ce0a0a914752",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612117460,
+        "stop" : 1614612141587,
+        "duration" : 24127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting Director sending message to Assistant Director",
+      "uid" : "b44f3527d476683f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614609019967,
+        "stop" : 1614609026932,
+        "duration" : 6965
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting Director should be able to delete the talents individual before checkin",
+      "uid" : "62113e97900343e5",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612230012,
+        "stop" : 1614612236854,
+        "duration" : 6842
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting Director should be able to delete the talents bulk before checkin",
+      "uid" : "7231c9dcbd878e99",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612236854,
+        "stop" : 1614612242923,
+        "duration" : 6069
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:casting director should be able to add mandatory fields",
+      "uid" : "e1c2e9466d07899",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614611924640,
+        "stop" : 1614611958107,
+        "duration" : 33467
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:casting director should be able to add talent with compensations",
+      "uid" : "10be1344b86c6bd4",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612176828,
+        "stop" : 1614612205795,
+        "duration" : 28967
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:casting director should be able to view and edit talent until checkout",
+      "uid" : "3d4e518a5e38595d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612205922,
+        "stop" : 1614612213749,
+        "duration" : 7827
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting director should be able to add new location to the project",
+      "uid" : "29ce3fcdccc39365",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612223609,
+        "stop" : 1614612229985,
+        "duration" : 6376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:casting director should be able to add mandatory fields",
+      "uid" : "b2e5ee7260a14f28",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612141652,
+        "stop" : 1614612176726,
+        "duration" : 35074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:Casting director able create shoot and able to view and edit the shoot created",
+      "uid" : "88689a9e2a02a4c7",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614608923452,
+        "stop" : 1614608949261,
+        "duration" : 25809
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:casting director should be able to add mandatory fields",
+      "uid" : "c5fa32ef98d82d49",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614608949326,
+        "stop" : 1614608983970,
+        "duration" : 34644
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    }, {
+      "name" : "#smoke:casting director should be able to add talent with compensations",
+      "uid" : "e533f6645ba44694",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614608984082,
+        "stop" : 1614609012665,
+        "duration" : 28583
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.190" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "1-0",
+    "children" : [ {
+      "name" : "#smoke:Casting Director logging in with valid credentials",
+      "uid" : "618fc32ec0defe5e",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614608933895,
+        "stop" : 1614608944247,
+        "duration" : 10352
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-61.0.1" ]
+    }, {
+      "name" : "#smoke:changing the old password with new password",
+      "uid" : "5407b3912982feb1",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612143166,
+        "stop" : 1614612158429,
+        "duration" : 15263
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:Casting Director logging in with valid credentials",
+      "uid" : "5cf9d7b366553527",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612135290,
+        "stop" : 1614612143107,
+        "duration" : 7817
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:Casting Director sending message to Assistant Director",
+      "uid" : "c25d71410bfa051",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614612878983,
+        "stop" : 1614612891511,
+        "duration" : 12528
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:Casting Director sending message to Assistant Director",
+      "uid" : "dcb4d91f148c00c9",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614613218450,
+        "stop" : 1614613229904,
+        "duration" : 11454
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:changing the old password with new password",
+      "uid" : "73f3652ae7f38a81",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614608944290,
+        "stop" : 1614608960977,
+        "duration" : 16687
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-61.0.1" ]
+    }, {
+      "name" : "#smoke:Casting Director sending message to Assistant Director",
+      "uid" : "667cedcac9a85d3f",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614613076280,
+        "stop" : 1614613086371,
+        "duration" : 10091
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:Casting Director logging in with valid credentials",
+      "uid" : "4f2671e4766f87bf",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614611970824,
+        "stop" : 1614611974576,
+        "duration" : 3752
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    }, {
+      "name" : "#smoke:changing the old password with new password",
+      "uid" : "10e3577909eef2c5",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "broken",
+      "time" : {
+        "start" : 1614611974611,
+        "stop" : 1614611988822,
+        "duration" : 14211
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-72.0.2" ]
+    } ],
+    "uid" : "5d884c24784638b93056bad95e3212e7"
+  } ]
+}

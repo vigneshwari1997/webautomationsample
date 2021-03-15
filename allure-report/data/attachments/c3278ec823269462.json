@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class='modal-footer text-right']/button[1]"
+}

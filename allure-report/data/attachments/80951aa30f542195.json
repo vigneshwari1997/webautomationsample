@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id='CDShootCreation']/div/div[5]/div/span"
+}

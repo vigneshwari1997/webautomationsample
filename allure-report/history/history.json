@@ -1,0 +1,586 @@
+{
+  "71456b61b1181b6c0ba90c943984157c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "618fc32ec0defe5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614608933895,
+        "stop" : 1614608944247,
+        "duration" : 10352
+      }
+    } ]
+  },
+  "fce9b9a11ceffd3179d92126cb9b39bf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "553ec283c2c89f48",
+      "status" : "broken",
+      "statusDetails" : "Element <span class=\"navi-text\"> could not be scrolled into view",
+      "time" : {
+        "start" : 1614609021089,
+        "stop" : 1614609027426,
+        "duration" : 6337
+      }
+    } ]
+  },
+  "d62075e750b4978602e3b5e773862b3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "afaddcaaa908e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614609076235,
+        "stop" : 1614609083170,
+        "duration" : 6935
+      }
+    } ]
+  },
+  "a91b404a2848bea51299a3a440e2b3fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bba1ce0a0a914752",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612117460,
+        "stop" : 1614612141587,
+        "duration" : 24127
+      }
+    } ]
+  },
+  "2701ebd5fa134c75c7d9b8fed4320888" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c855b2c3d1dc818b",
+      "status" : "broken",
+      "statusDetails" : "Element <select id=\"ddlLocation\" class=\"form-control \" name=\"Location\"> is not clickable at point (495.81666564941406,546.6166610717773) because another element <span class=\"loading-div-d\"> obscures it",
+      "time" : {
+        "start" : 1614608934006,
+        "stop" : 1614608950152,
+        "duration" : 16146
+      }
+    } ]
+  },
+  "9e720b4ac9df07d2a17d08a0a3c994bb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d16421a44562d91",
+      "status" : "broken",
+      "statusDetails" : "Element <div class=\"kt-header__topbar-user user-drop\"> is not clickable at point (1181.25,32) because another element <h5 class=\"modal-title\"> obscures it",
+      "time" : {
+        "start" : 1614608986604,
+        "stop" : 1614609020922,
+        "duration" : 34318
+      }
+    } ]
+  },
+  "da7815df39ae7b6e0bbd4f1a078386c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef7be2fc7df58343",
+      "status" : "broken",
+      "statusDetails" : "Element <span class=\"navi-text\"> could not be scrolled into view",
+      "time" : {
+        "start" : 1614612230839,
+        "stop" : 1614612237468,
+        "duration" : 6629
+      }
+    } ]
+  },
+  "a387b79ccdb9893050ed92e147f420d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d470972be874ee1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612220485,
+        "stop" : 1614612230790,
+        "duration" : 10305
+      }
+    } ]
+  },
+  "1d51c2693ee130149807e606ce45572a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea10a3fad143fae7",
+      "status" : "broken",
+      "statusDetails" : "element (\"//*[@id='overTime7425']/div/button/i\") still not clickable after 28000ms",
+      "time" : {
+        "start" : 1614609027449,
+        "stop" : 1614609062169,
+        "duration" : 34720
+      }
+    } ]
+  },
+  "50ce935489190c592e583825565f60ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae71bd7ff5d9143d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614613212588,
+        "stop" : 1614613226397,
+        "duration" : 13809
+      }
+    } ]
+  },
+  "3f6cdfd2657ad72065fce33ad0f20865" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ebc18a5fafeb51de",
+      "status" : "broken",
+      "statusDetails" : "Element <div class=\"kt-header__topbar-user user-drop\"> is not clickable at point (1181,32) because another element <h5 class=\"modal-title\"> obscures it",
+      "time" : {
+        "start" : 1614612176308,
+        "stop" : 1614612209411,
+        "duration" : 33103
+      }
+    } ]
+  },
+  "b9857d6da6d318e0f06341109374d50e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10be1344b86c6bd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612176828,
+        "stop" : 1614612205795,
+        "duration" : 28967
+      }
+    } ]
+  },
+  "69f584ceab1457efa2dc02d4d53adbc2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa3159c360b56747",
+      "status" : "broken",
+      "statusDetails" : "Element <div class=\"kt-header__topbar-user user-drop\"> is not clickable at point (1181,32) because another element <h5 class=\"modal-title\"> obscures it",
+      "time" : {
+        "start" : 1614612142145,
+        "stop" : 1614612176239,
+        "duration" : 34094
+      }
+    } ]
+  },
+  "dc9cbb261993cefd3535610d675f2ead" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e618bdbf03afd36e",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//div[@class='kt-header__topbar-user user-drop']\" because element wasn't found",
+      "time" : {
+        "start" : 1614612122347,
+        "stop" : 1614612141735,
+        "duration" : 19388
+      }
+    } ]
+  },
+  "ee92960d528bacf7151dc55caecaa192" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63a47e9859e2cff1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614609062246,
+        "stop" : 1614609071424,
+        "duration" : 9178
+      }
+    } ]
+  },
+  "d39dedd039f732ad9e6bdd76fd1272e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae4bcc1541c7bb7e",
+      "status" : "broken",
+      "statusDetails" : "Element <div class=\"kt-header__topbar-user user-drop\"> is not clickable at point (1181.25,32) because another element <h5 class=\"modal-title\"> obscures it",
+      "time" : {
+        "start" : 1614608950245,
+        "stop" : 1614608986497,
+        "duration" : 36252
+      }
+    } ]
+  },
+  "4f277d8359aaf4b14d21e872744fa468" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5407b3912982feb1",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//div[@class='kt-header__topbar-user user-drop']\" because element wasn't found",
+      "time" : {
+        "start" : 1614612143166,
+        "stop" : 1614612158429,
+        "duration" : 15263
+      }
+    } ]
+  },
+  "1965664568a1a17c3063d6de42572e4f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2e5ee7260a14f28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612141652,
+        "stop" : 1614612176726,
+        "duration" : 35074
+      }
+    } ]
+  },
+  "8ad9b18c9dbfd6410360af40128a9fe8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dcb4d91f148c00c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614613218450,
+        "stop" : 1614613229904,
+        "duration" : 11454
+      }
+    } ]
+  },
+  "c1e5728f9142af2b3916c2785d88a41" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "73f3652ae7f38a81",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//div[@class='kt-header__topbar-user user-drop']\" because element wasn't found",
+      "time" : {
+        "start" : 1614608944290,
+        "stop" : 1614608960977,
+        "duration" : 16687
+      }
+    } ]
+  },
+  "bc92d6ab8c788cc8c3b8c10dfe66acbe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4dd4a71306dbf56",
+      "status" : "broken",
+      "statusDetails" : "Element <select id=\"ddlLocation\" class=\"form-control \" name=\"Location\"> is not clickable at point (495,546) because another element <span class=\"loading-div-d\"> obscures it",
+      "time" : {
+        "start" : 1614612128705,
+        "stop" : 1614612141993,
+        "duration" : 13288
+      }
+    } ]
+  },
+  "d44b53d194b393a9c7de5447c59d9250" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bdcbe69a316a1555",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612237468,
+        "stop" : 1614612246066,
+        "duration" : 8598
+      }
+    } ]
+  },
+  "542b1e30bd6eaff063f9c702fa2af466" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "62113e97900343e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612230012,
+        "stop" : 1614612236854,
+        "duration" : 6842
+      }
+    } ]
+  },
+  "6ecc2c903ab95cd2974fe6ccb3cf2154" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "132c599b2f901f67",
+      "status" : "broken",
+      "statusDetails" : "Element <span class=\"navi-text\"> could not be scrolled into view",
+      "time" : {
+        "start" : 1614609071457,
+        "stop" : 1614609076235,
+        "duration" : 4778
+      }
+    } ]
+  },
+  "b3e2d0d765ddfae9461f70b0127fdf0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "333d84f36d90a2c9",
+      "status" : "broken",
+      "statusDetails" : "Element <span class=\"navi-text\"> could not be scrolled into view",
+      "time" : {
+        "start" : 1614612209506,
+        "stop" : 1614612214681,
+        "duration" : 5175
+      }
+    } ]
+  },
+  "c59a7ed30b9d25c6a0f0c1c5fc0db4c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5a2d1e5a76df111",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612113839,
+        "stop" : 1614612122275,
+        "duration" : 8436
+      }
+    } ]
+  },
+  "186a8f0244d593e5e6e71fa5096ba56e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7231c9dcbd878e99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612236854,
+        "stop" : 1614612242923,
+        "duration" : 6069
+      }
+    } ]
+  },
+  "479945056a03684aa13f141c0664abcf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "29ce3fcdccc39365",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612223609,
+        "stop" : 1614612229985,
+        "duration" : 6376
+      }
+    } ]
+  },
+  "2dbd12af6e1b0cce34c79550547fc20b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d4e518a5e38595d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612205922,
+        "stop" : 1614612213749,
+        "duration" : 7827
+      }
+    } ]
+  },
+  "42c7f65fe6bcbc9df5f397e4dfb90026" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5cf9d7b366553527",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612135290,
+        "stop" : 1614612143107,
+        "duration" : 7817
+      }
+    } ]
+  }
+}

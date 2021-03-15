@@ -1,0 +1,167 @@
+{
+  "actions": [
+    {
+      "type": "pointer",
+      "id": "pointer1",
+      "parameters": {
+        "pointerType": "mouse"
+      },
+      "actions": [
+        {
+          "type": "pointerMove",
+          "origin": {
+            "sessionId": "314722678fe6729f3356ac73da197d4f",
+            "elementId": "a8ea6125-647f-4827-9090-5d3c8bcb2117",
+            "element-6066-11e4-a52e-4f735466cecf": "a8ea6125-647f-4827-9090-5d3c8bcb2117",
+            "selector": "//*[@id='divReactDataGrid']/div/div/div/div[2]/div/div/div[2]/div/div[5]/div",
+            "parent": {
+              "sessionId": "314722678fe6729f3356ac73da197d4f",
+              "capabilities": {
+                "acceptInsecureCerts": true,
+                "browserName": "chrome",
+                "browserVersion": "88.0.4324.190",
+                "chrome": {
+                  "chromedriverVersion": "88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784})",
+                  "userDataDir": "C:\\Users\\VIGNES~1.A\\AppData\\Local\\Temp\\scoped_dir8068_1398898010"
+                },
+                "goog:chromeOptions": {
+                  "debuggerAddress": "localhost:62098"
+                },
+                "networkConnectionEnabled": false,
+                "pageLoadStrategy": "normal",
+                "platformName": "windows",
+                "proxy": {},
+                "setWindowRect": true,
+                "strictFileInteractability": false,
+                "timeouts": {
+                  "implicit": 0,
+                  "pageLoad": 300000,
+                  "script": 30000
+                },
+                "unhandledPromptBehavior": "dismiss and notify",
+                "webauthn:extension:largeBlob": true,
+                "webauthn:virtualAuthenticators": true,
+                "webdriver.remote.sessionid": "314722678fe6729f3356ac73da197d4f"
+              },
+              "config": {
+                "specs": [
+                  "./specs/*.spec.js"
+                ],
+                "suites": {},
+                "exclude": [],
+                "logLevel": "error",
+                "logLevels": {},
+                "excludeDriverLogs": [],
+                "bail": 0,
+                "waitforInterval": 500,
+                "waitforTimeout": 10000,
+                "framework": "mocha",
+                "reporters": [
+                  "spec",
+                  [
+                    "allure",
+                    {
+                      "outputDir": "allure-results"
+                    }
+                  ]
+                ],
+                "services": [
+                  "selenium-standalone"
+                ],
+                "maxInstances": 10,
+                "maxInstancesPerCapability": 100,
+                "filesToWatch": [],
+                "connectionRetryTimeout": 120000,
+                "connectionRetryCount": 3,
+                "execArgv": [],
+                "runnerEnv": {},
+                "runner": "local",
+                "specFileRetries": 0,
+                "specFileRetriesDelay": 0,
+                "specFileRetriesDeferred": false,
+                "reporterSyncInterval": 100,
+                "reporterSyncTimeout": 5000,
+                "cucumberFeaturesWithLineNumbers": [],
+                "mochaOpts": {
+                  "timeout": 1200000,
+                  "ui": "bdd",
+                  "require": [
+                    "@babel/register"
+                  ],
+                  "grep": "smoke"
+                },
+                "jasmineNodeOpts": {
+                  "defaultTimeoutInterval": 10000
+                },
+                "cucumberOpts": {
+                  "timeout": 10000
+                },
+                "onPrepare": [],
+                "onWorkerStart": [],
+                "before": [
+                  null
+                ],
+                "beforeSession": [],
+                "beforeSuite": [],
+                "beforeHook": [],
+                "beforeTest": [
+                  null
+                ],
+                "beforeCommand": [],
+                "afterCommand": [],
+                "afterTest": [
+                  null
+                ],
+                "afterHook": [],
+                "afterSuite": [],
+                "afterSession": [],
+                "after": [],
+                "onComplete": [],
+                "onReload": [],
+                "beforeFeature": [],
+                "beforeScenario": [],
+                "beforeStep": [],
+                "afterStep": [],
+                "afterScenario": [],
+                "afterFeature": [],
+                "baseUrl": "http://localhost",
+                "_": [
+                  "wdio.conf.js"
+                ],
+                "mocha-opts": {
+                  "grep": "smoke"
+                },
+                "$0": "node_modules\\@wdio\\cli\\bin\\wdio.js",
+                "ignoredWorkerServices": []
+              },
+              "_NOT_FIBER": false
+            },
+            "isReactElement": false
+          },
+          "x": 0,
+          "y": 0
+        },
+        {
+          "type": "pointerDown",
+          "button": 0
+        },
+        {
+          "type": "pointerUp",
+          "button": 0
+        },
+        {
+          "type": "pause",
+          "duration": 10
+        },
+        {
+          "type": "pointerDown",
+          "button": 0
+        },
+        {
+          "type": "pointerUp",
+          "button": 0
+        }
+      ]
+    }
+  ]
+}

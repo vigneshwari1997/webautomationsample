@@ -1,0 +1,301 @@
+[ {
+  "uid" : "7231c9dcbd878e99",
+  "name" : "#smoke:Casting Director should be able to delete the talents bulk before checkin",
+  "time" : {
+    "start" : 1614612236854,
+    "stop" : 1614612242923,
+    "duration" : 6069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63a47e9859e2cff1",
+  "name" : "#smoke:Casting director should be able to add new location to the project",
+  "time" : {
+    "start" : 1614609062246,
+    "stop" : 1614609071424,
+    "duration" : 9178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebc18a5fafeb51de",
+  "name" : "#smoke:casting director should be able to add talent with compensations",
+  "time" : {
+    "start" : 1614612176308,
+    "stop" : 1614612209411,
+    "duration" : 33103
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ae71bd7ff5d9143d",
+  "name" : "#smoke:Casting Director sending message to Assistant Director",
+  "time" : {
+    "start" : 1614613212588,
+    "stop" : 1614613226397,
+    "duration" : 13809
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afaddcaaa908e3",
+  "name" : "#smoke:Casting Director should be able to delete the talents bulk before checkin",
+  "time" : {
+    "start" : 1614609076235,
+    "stop" : 1614609083170,
+    "duration" : 6935
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "132c599b2f901f67",
+  "name" : "#smoke:Casting Director should be able to delete the talents individual before checkin",
+  "time" : {
+    "start" : 1614609071457,
+    "stop" : 1614609076235,
+    "duration" : 4778
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ef7be2fc7df58343",
+  "name" : "#smoke:Casting Director should be able to delete the talents individual before checkin",
+  "time" : {
+    "start" : 1614612230839,
+    "stop" : 1614612237468,
+    "duration" : 6629
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dcb4d91f148c00c9",
+  "name" : "#smoke:Casting Director sending message to Assistant Director",
+  "time" : {
+    "start" : 1614613218450,
+    "stop" : 1614613229904,
+    "duration" : 11454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4dd4a71306dbf56",
+  "name" : "#smoke:Casting director able create shoot and able to view and edit the shoot created",
+  "time" : {
+    "start" : 1614612128705,
+    "stop" : 1614612141993,
+    "duration" : 13288
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b5a2d1e5a76df111",
+  "name" : "#smoke:Casting Director logging in with valid credentials",
+  "time" : {
+    "start" : 1614612113839,
+    "stop" : 1614612122275,
+    "duration" : 8436
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2e5ee7260a14f28",
+  "name" : "#smoke:casting director should be able to add mandatory fields",
+  "time" : {
+    "start" : 1614612141652,
+    "stop" : 1614612176726,
+    "duration" : 35074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29ce3fcdccc39365",
+  "name" : "#smoke:Casting director should be able to add new location to the project",
+  "time" : {
+    "start" : 1614612223609,
+    "stop" : 1614612229985,
+    "duration" : 6376
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa3159c360b56747",
+  "name" : "#smoke:casting director should be able to add mandatory fields",
+  "time" : {
+    "start" : 1614612142145,
+    "stop" : 1614612176239,
+    "duration" : 34094
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "62113e97900343e5",
+  "name" : "#smoke:Casting Director should be able to delete the talents individual before checkin",
+  "time" : {
+    "start" : 1614612230012,
+    "stop" : 1614612236854,
+    "duration" : 6842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5407b3912982feb1",
+  "name" : "#smoke:changing the old password with new password",
+  "time" : {
+    "start" : 1614612143166,
+    "stop" : 1614612158429,
+    "duration" : 15263
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2d16421a44562d91",
+  "name" : "#smoke:casting director should be able to add talent with compensations",
+  "time" : {
+    "start" : 1614608986604,
+    "stop" : 1614609020922,
+    "duration" : 34318
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "73f3652ae7f38a81",
+  "name" : "#smoke:changing the old password with new password",
+  "time" : {
+    "start" : 1614608944290,
+    "stop" : 1614608960977,
+    "duration" : 16687
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "10be1344b86c6bd4",
+  "name" : "#smoke:casting director should be able to add talent with compensations",
+  "time" : {
+    "start" : 1614612176828,
+    "stop" : 1614612205795,
+    "duration" : 28967
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "553ec283c2c89f48",
+  "name" : "#smoke:casting director should be able to view and edit talent until checkout",
+  "time" : {
+    "start" : 1614609021089,
+    "stop" : 1614609027426,
+    "duration" : 6337
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "618fc32ec0defe5e",
+  "name" : "#smoke:Casting Director logging in with valid credentials",
+  "time" : {
+    "start" : 1614608933895,
+    "stop" : 1614608944247,
+    "duration" : 10352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae4bcc1541c7bb7e",
+  "name" : "#smoke:casting director should be able to add mandatory fields",
+  "time" : {
+    "start" : 1614608950245,
+    "stop" : 1614608986497,
+    "duration" : 36252
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bdcbe69a316a1555",
+  "name" : "#smoke:Casting Director should be able to delete the talents bulk before checkin",
+  "time" : {
+    "start" : 1614612237468,
+    "stop" : 1614612246066,
+    "duration" : 8598
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cf9d7b366553527",
+  "name" : "#smoke:Casting Director logging in with valid credentials",
+  "time" : {
+    "start" : 1614612135290,
+    "stop" : 1614612143107,
+    "duration" : 7817
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea10a3fad143fae7",
+  "name" : "#smoke:Casting Director sending message to Assistant Director",
+  "time" : {
+    "start" : 1614609027449,
+    "stop" : 1614609062169,
+    "duration" : 34720
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c855b2c3d1dc818b",
+  "name" : "#smoke:Casting director able create shoot and able to view and edit the shoot created",
+  "time" : {
+    "start" : 1614608934006,
+    "stop" : 1614608950152,
+    "duration" : 16146
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "333d84f36d90a2c9",
+  "name" : "#smoke:casting director should be able to view and edit talent until checkout",
+  "time" : {
+    "start" : 1614612209506,
+    "stop" : 1614612214681,
+    "duration" : 5175
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3d4e518a5e38595d",
+  "name" : "#smoke:casting director should be able to view and edit talent until checkout",
+  "time" : {
+    "start" : 1614612205922,
+    "stop" : 1614612213749,
+    "duration" : 7827
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bba1ce0a0a914752",
+  "name" : "#smoke:Casting director able create shoot and able to view and edit the shoot created",
+  "time" : {
+    "start" : 1614612117460,
+    "stop" : 1614612141587,
+    "duration" : 24127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d470972be874ee1",
+  "name" : "#smoke:Casting director should be able to add new location to the project",
+  "time" : {
+    "start" : 1614612220485,
+    "stop" : 1614612230790,
+    "duration" : 10305
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e618bdbf03afd36e",
+  "name" : "#smoke:changing the old password with new password",
+  "time" : {
+    "start" : 1614612122347,
+    "stop" : 1614612141735,
+    "duration" : 19388
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

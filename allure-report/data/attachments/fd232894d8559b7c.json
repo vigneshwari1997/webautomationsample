@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class='kt-header__topbar-user user-drop']"
+}

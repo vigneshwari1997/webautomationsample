@@ -1,0 +1,66 @@
+{
+  "actions": [
+    {
+      "type": "key",
+      "id": "keyboard",
+      "actions": [
+        {
+          "type": "keyDown",
+          "value": ""
+        },
+        {
+          "type": "keyDown",
+          "value": "8"
+        },
+        {
+          "type": "keyDown",
+          "value": "."
+        },
+        {
+          "type": "keyDown",
+          "value": "0"
+        },
+        {
+          "type": "keyDown",
+          "value": "0"
+        },
+        {
+          "type": "keyDown",
+          "value": "P"
+        },
+        {
+          "type": "keyDown",
+          "value": "M"
+        },
+        {
+          "type": "keyUp",
+          "value": ""
+        },
+        {
+          "type": "keyUp",
+          "value": "8"
+        },
+        {
+          "type": "keyUp",
+          "value": "."
+        },
+        {
+          "type": "keyUp",
+          "value": "0"
+        },
+        {
+          "type": "keyUp",
+          "value": "0"
+        },
+        {
+          "type": "keyUp",
+          "value": "P"
+        },
+        {
+          "type": "keyUp",
+          "value": "M"
+        }
+      ]
+    }
+  ]
+}

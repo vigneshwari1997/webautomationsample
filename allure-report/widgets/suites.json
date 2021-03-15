@@ -1,0 +1,103 @@
+{
+  "total" : 9,
+  "items" : [ {
+    "uid" : "db2814e726d80866bfb6d2947728460c",
+    "name" : "Casting director should be able to change the password",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "b3399856fbbceacdf9f0b0c233718c22",
+    "name" : "Casting Director should be able to delete the talents",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "b035a896c4a14ab5916c1e1bee762950",
+    "name" : "Casting Director should be able to create shoot",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "878b52a0e668c2aef03a6929904ac27d",
+    "name" : "Casting director should be able to add talent",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "4e396a19aa19b10581f9386cc7bfd4ef",
+    "name" : "Casting Director should be able to assign compensation to talent",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "65d3b6ed24f4c7fb6ee4f4f794e3ca5d",
+    "name" : "Casting director trying to view and edit details of talent",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "3d66ed608ac6a115c537fe73ede16e07",
+    "name" : "Casting Director should be able to send message to Assistant Director",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "071d7ccfd57d20bae84a6b53c6910738",
+    "name" : "Casting Director should be able to login",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "c495539e87ef0aff9fe73aefd6587cb1",
+    "name" : "Casting Director should be able to add new location",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
+}
